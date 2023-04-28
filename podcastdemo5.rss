@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:cc="http://web.resource.org/cc/" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:media="http://search.yahoo.com/mrss/" xmlns:content="http://purl.org/rss/1.0/modules/content/"  xmlns:podcast="https://podcastindex.org/namespace/1.0"  xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
 	<channel>
 		<atom:link href="https://dharmachakra.libsyn.com/rss" rel="self" type="application/rss+xml"/>
-		<title>Free Buddhist Audio</title>
+		<title>Free Buddhist Audio - Dayāketu test!</title>
 		<pubDate>Sat, 22 Apr 2023 04:00:00 +0000</pubDate>
 		<lastBuildDate>Thu, 27 Apr 2023 12:16:42 +0000</lastBuildDate>
 		<generator>Libsyn WebEngine 2.0</generator>
@@ -16,7 +16,7 @@
 Tune in, be inspired!]]></itunes:summary>
 		<image>
 			<url>https://ssl-static.libsyn.com/p/assets/9/5/6/a/956adffeaf5f53cc/fba_podcast_logo_1400.jpg</url>
-			<title>Free Buddhist Audio - Dayāketu test!</title>
+			<title>Free Buddhist Audio</title>
 			<link><![CDATA[https://freebuddhistaudio.com]]></link>
 		</image>
 		<itunes:author>Dharmachakra</itunes:author>
