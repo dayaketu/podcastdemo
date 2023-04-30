@@ -1,25 +1,39 @@
-<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/" version="2.0">
-    <channel>
-        <title>Dayāketu example</title>
-        <link>https://www.dayaketu.com</link>
-        <image>
-            <url>http://www.example.com/image3000x3000.png</url>
-            <title>Podcast Title Here</title>
-            <link>https://www.example.com</link>
-        </image>
-        <description>
-            Dayāketu RSS example
-        </description>
-        <language>en-us</language>
-        <copyright>Dayāketu 2023</copyright>
-        <item>
-          <itunes:image href="https://drive.google.com/uc?export=download&id=16RqQL_CqdtVAKgYMV5naCg_pj_7--vt7" />
-          <title>Bell, Book and Candle - Triratna Today and Tomorrow</title>
-          <link>https://drive.google.com/uc?export=download&id=1RwXgJqB1m8n1ZsZKIrliygNPIZycpCST</link>
-          <pubDate>Sat, 02 Jan 2020 16:00:00 PDT</pubDate>
-          <description>The full length episode 2 description</description>
-          <enclosure url="https://drive.google.com/uc?export=download&id=1RwXgJqB1m8n1ZsZKIrliygNPIZycpCST" length="36715125" type="audio/mpeg"/>
-          <guid>https://drive.google.com/uc?export=download&id=1RwXgJqB1m8n1ZsZKIrliygNPIZycpCST</guid>
-        </item>
-    </channel>
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:cc="http://web.resource.org/cc/" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:media="http://search.yahoo.com/mrss/" xmlns:content="http://purl.org/rss/1.0/modules/content/"  xmlns:podcast="https://podcastindex.org/namespace/1.0"  xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+	<channel>
+		<atom:link href="https://dharmachakra.libsyn.com/rss" rel="self" type="application/rss+xml"/>
+		<title>FBA full podcast - scheduled episodes</title>
+		<pubDate>Sat, 22 Apr 2023 04:00:00 +0000</pubDate>
+		<lastBuildDate>Thu, 27 Apr 2023 12:16:42 +0000</lastBuildDate>
+		<link>https://freebuddhistaudio.com</link>
+		<language>en</language>
+		<copyright><![CDATA[© Dharmachakra 2019]]></copyright>
+		<docs>https://freebuddhistaudio.com</docs>
+		<managingEditor>info@freebuddhistaudio.com (info@freebuddhistaudio.com)</managingEditor>
+		<image>
+			<url>https://drive.google.com/uc?export=download&id=1UDAqbme4TECcn250nr87BjOE-gbjUkV4</url>
+			<title>Free Buddhist Audio</title>
+			<link><![CDATA[https://freebuddhistaudio.com]]></link>
+		</image>
+		<itunes:author>Dharmachakra</itunes:author>
+		<itunes:image href="https://drive.google.com/uc?export=download&id=1UDAqbme4TECcn250nr87BjOE-gbjUkV4" />
+		<itunes:explicit>false</itunes:explicit>
+		<itunes:owner>
+			<itunes:name><![CDATA[Dharmachakra / Free Buddhist Audio]]></itunes:name>
+			<itunes:email>info@freebuddhistaudio.com</itunes:email>
+		</itunes:owner>
+		<itunes:type>episodic</itunes:type>
+		<podcast:locked owner="info@freebuddhistaudio.com">no</podcast:locked>
+		<item>
+			<title>Bell, Book and Candle - Triratna Today and Tomorrow</title>
+			<itunes:title>Bell, Book and Candle - Triratna Today and Tomorrow</itunes:title>
+			<pubDate>Sat, 22 Apr 2023 04:00:00 +0000</pubDate>
+			<guid isPermaLink="false"><![CDATA[88f63654-6b1a-43e3-adfa-0332d1956b16]]></guid>
+			<itunes:image href="https://drive.google.com/uc?export=download&id=16RqQL_CqdtVAKgYMV5naCg_pj_7--vt7" />
+			<enclosure length="51823228" type="audio/mpeg" url="https://drive.google.com/uc?export=download&id=1RwXgJqB1m8n1ZsZKIrliygNPIZycpCST" />
+			<itunes:episode>610</itunes:episode>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+
+	</channel>
 </rss>
