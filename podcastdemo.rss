@@ -25,14 +25,17 @@
 		<itunes:type>episodic</itunes:type>
 		<podcast:locked owner="info@freebuddhistaudio.com">no</podcast:locked>
 		<item>
-			<title>Bell, Book and Candle - Triratna Today and Tomorrow</title>
-			<itunes:title>Bell, Book and Candle - Triratna Today and Tomorrow</itunes:title>
+			<title>Exploring Insight: Sadhana and the Goal of Life</title>
+			<itunes:title>Exploring Insight: Sadhana and the Goal of Life</itunes:title>
 			<pubDate>Sat, 22 Apr 2023 04:00:00 +0000</pubDate>
 			<guid isPermaLink="false"><![CDATA[88f63654-6b1a-43e3-adfa-0332d1956b16]]></guid>
 			<itunes:image href="https://drive.google.com/uc?export=download&id=17PLZNiFN3Nabh2MYB29cN_XKA7VtbbGt" />
-			<enclosure length="51823228" type="audio/mpeg" url="https://drive.google.com/uc?export=download&id=1RwXgJqB1m8n1ZsZKIrliygNPIZycpCST" />
-			<itunes:episode>610</itunes:episode>
+			<enclosure length="51823228" type="audio/mpeg" url="https://drive.google.com/uc?export=download&id=17PLZNiFN3Nabh2MYB29cN_XKA7VtbbGt" />
+			<itunes:episode>614</itunes:episode>
 			<itunes:episodeType>full</itunes:episodeType>
+			<description><![CDATA[Maitreyabandhu explores the path to insight in the context of Triratna's system of practice. He does this by exploring the three myths of self-development, self-surrender and self-discovery, as well as spiritual death and spiritual rebirth in the dharma life.
+
+Talk given at Padmaloka Retreat Centre, 2019.]]></description>
 		</item>
 
 	</channel>
