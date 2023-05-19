@@ -49,6 +49,29 @@ Spotify: https://open.spotify.com/show/0H2lgkYallHtPiMQQdWWOC
 
 Google: https://podcasts.google.com/feed/aHR0cHM6Ly9kaGFybWFjaGFrcmEubGlic3luLmNvbS9yc3M]]></description>
 		</item>
+				<item>
+			<title>Test title</title>
+			<itunes:title>Test title</itunes:title>
+			<pubDate>Sat, 22 Apr 2023 04:00:00 +0000</pubDate>
+			<guid isPermaLink="false"><![CDATA[88f63654-6b1a-43e3-adfa-0332d1956b16]]></guid>
+			<itunes:image href="https://drive.google.com/uc?export=download&id=1AowZZCD6Eip3VKaWaN3SeWdQGPmOr_LI" />
+			<enclosure length="51823228" type="audio/mpeg" url="https://drive.google.com/uc?export=download&id=1RwXgJqB1m8n1ZsZKIrliygNPIZycpCST" />
+			<itunes:episode>640</itunes:episode>
+			<itunes:episodeType>full</itunes:episodeType>
+			<description><![CDATA[New description
 
+***
+
+Help us keep FBA Podcasts free for everyone: donate now! https://freebuddhistaudio.com/donate
+
+Subscribe to our Free Buddhist Audio podcast: A full, curated, quality Dharma talk, every week. 3,000,000 downloads and counting!
+
+Apple Podcasts: https://podcasts.apple.com/podcast/free-buddhist-audio-community/id75081757
+
+Spotify: https://open.spotify.com/show/0H2lgkYallHtPiMQQdWWOC
+
+Google: https://podcasts.google.com/feed/aHR0cHM6Ly9kaGFybWFjaGFrcmEubGlic3luLmNvbS9yc3M]]></description>
+		</item>
+		<!-- Insert new episodes here -->
 	</channel>
 </rss>
